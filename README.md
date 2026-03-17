@@ -1,4 +1,4 @@
-<h1 align="center">Elirus</h1>
+<h1 align="center">Hi, 👋 I'm Elirus</h1>
 <p align="center">
   Full-stack Developer • Prompt Engineer • AI-assisted Builder
 </p>
@@ -44,9 +44,15 @@
 
 ## 🤝 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/elirus">LinkedIn</a> •
-  <a href="https://github.com/Elirus43">GitHub</a> •
-  <a href="mailto:zayarhtun4303@email.com">Email</a>
+  <a href="https://linkedin.com/in/Elirus">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Elirus43">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:zayarhtun4303@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
