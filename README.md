@@ -9,7 +9,7 @@
 
 ---
 
-## 🧩 Profile
+## 👤 Profile
 - 🎓 NCC Diploma in Computing  
 - ⚙️ Focus: Web-Application development & real-world systems  
 - 🤖 Exploring AI-assisted workflows  
@@ -17,10 +17,10 @@
 
 ---
 
-## ⚒️ Tech Stack
+## 💻 Tech Stack
 
 <p>
-  <strong>Strong:</strong> JavaScript, React, PHP, Laravel, Tailwind, OOP<br>
+  <strong>Strong:</strong> JavaScript, React, PHP, Laravel, Node, Express, Tailwind, OOP, Algorithms<br>
   <strong>Familiar:</strong> MySQL, MongoDB, PostgreSQL, Git, REST APIs<br>
   <strong>Learning:</strong> Advanced React, System Design, Prompt Engineering, Typescript, Design Patterns<br>
 </p>
