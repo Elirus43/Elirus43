@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 I'm Elirus</h1>
+<h1 align="center">Hi, I'm Elirus</h1>
 <p align="center">
   Full-stack Developer • Prompt Engineer • AI-assisted Builder
 </p>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🤝 Connect
+## How to Contact Me?
 <p align="center">
   <a href="https://linkedin.com/in/Elirus">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -57,5 +57,5 @@
 
 ---
 
-## ⚡ Philosophy
+## Philosophy
 > "Learn fast. Build faster. Adapt always."
