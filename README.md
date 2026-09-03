@@ -36,12 +36,14 @@
 
 ## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lwinmoepaing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwinmoepaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elirus43&theme=tokyonight&hide_border=true" alt="Elirus43 Streak" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwinmoepaing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elirus43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elirus43&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
